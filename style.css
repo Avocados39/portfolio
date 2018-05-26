@@ -1,0 +1,144 @@
+body {
+	width: 100%;
+	background-color: black;
+}
+.wrapper {
+	width: 970px;
+	height: auto;
+	margin: 0px auto;
+	background-color: #6f5964;
+}
+.header {
+	width: 970px;
+	display: block;
+	background-color: #f8f8f8;
+}
+.header h1 {
+	width: 400px;
+	display: inline-block;
+	margin-left: 25px;
+	font-family: "comic sans MS", sans-serif;
+}
+.header h2 {
+	width: 380px;
+	margin-left: 140px;
+	display: inline-block;
+}
+.main_content {
+	width: 970px;
+	height: 990px;
+}
+.main_content img {
+	width: 400px;
+	height: auto;
+	margin-left: 25px;
+	margin-top: 25px;
+	border-style: solid;
+	border-color: lightgrey;
+	border-width: 5px;
+	display: inline-block;
+}
+.about_me {
+	width: 480px;
+	height: 273px;
+	margin-left: 25px;
+	margin-top: 25px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #f6f6f6;
+}
+.about_me p {
+	padding-left: 5px;
+	font-size: 18px;
+}
+.about_me h2 {
+	width: 465px;
+	height: 20px;
+	padding: 15px 0px 15px 15px;
+	margin-top: 0px;
+	color: white;
+	background-color: #8d8c98;
+}
+.about_me a {
+	color: black;
+	margin-left: 5px;
+}
+.projects {
+	width: 288px;
+	height:560px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin bottom: 25px;
+	vertical-align: top;
+	background-color: #ece5ec;
+	display: inline-block;
+}
+.projects img {
+	width: 278px;
+	height: auto;
+	margin: 0px;
+	vertical-align: top;
+}
+
+.projects h2 {
+	width: 268px;
+	height: 30px;
+	margin: 0px;
+	padding: 10px;
+	background-color: #8b8996;
+	color: white;
+}
+.projects h3 {
+	width: 268px;
+	padding: 10px;
+	background-color: #8b8996;
+	color: white;
+}
+.projects p {
+	padding-left: 4px;
+}
+.projects ul li img {
+	width: 40px;
+	height: 40px;
+	border: none;
+	margin: 2px;
+}
+.projects ul li {
+	display: inline-block;
+}
+.projects button {
+	background-color: #407d61;
+	color: white;
+	border-radius: 5px;
+	border-color: black;
+	margin: 10px 100px;
+	font-weight: 600;
+}
+.footer {
+	width: 970px;
+	height: 60px;
+	margin-top: 25px;
+	padding-bottom: 20px;
+	background-color: #f6f6f6;
+}
+.footer p {
+	text-align: center;
+}
+.footer ul {
+	margin-left: 200px;
+}
+.footer ul li {
+	display: inline-block;
+	text-align: center;
+}
+.footer a {
+	color: black;
+	text-align: center;
+}
+.footer img{
+	width: 15px;
+	height: 15px;
+	margin-top: 0px;
+	margin-right: 5px;
+	text-align: center;
+}
